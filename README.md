@@ -1,6 +1,7 @@
 # goWeb
 gorose orm+dotweb框架实现接口 -- 类似PHP的laravel
-注：代码源至golang中文网 https://studygolang.com/articles/12383
+
+注：代码逻辑源自golang中文网 https://studygolang.com/articles/12383
 # 项目结构说明
 因为 gorose orm 和 dotweb 框架 都是基于独立的组件, 所以我们可以对项目的目录做出自由的规划.
 在这里, 我们便规划一个遵循一般的mvc结构的项目目录.
